@@ -1,0 +1,15 @@
+{
+  "name": "poe-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "nodemon bot.js"
+  },
+  "author": "FredieU",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "nodemon": "^2.0.6"
+  }
+}
